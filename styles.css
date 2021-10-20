@@ -5,5 +5,9 @@ h1{
     color: blueviolet;
 }
 h2{
-    color: gray;
+    color: orange;
+}
+
+section {
+    background-color: gray;
 }
